@@ -1,0 +1,7 @@
+name: RoGitHubDevs
+baseurl: /rogithubdevs
+markdown: redcarpet
+safe: true
+lsi: false
+pygments: true
+timezone: Europe/Bucharest
